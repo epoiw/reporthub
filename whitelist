@@ -1,0 +1,3 @@
+local whitelsituserid = game.Players.LocalPlayer.UserId 
+
+if whitelsituserid == 1737581952 or whitelsituserid == 123 or whitelsituserid == 199426646 or whitelsituserid == 3455076523 or whitelsituserid == 123 then
